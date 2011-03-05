@@ -1,0 +1,4 @@
+source ~/vimfiles/gvimrc
+
+set guifont=Consolas:h13
+colorscheme molokai
